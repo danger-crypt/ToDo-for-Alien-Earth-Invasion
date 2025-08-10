@@ -1,2 +1,6 @@
 # ToDo-for-Alien-Earth-Invasion
 Project for freeCodeCamp's FullStack Web Dev curriculum, in the CSS portion. Chose to make a satire Alien Invasion of Earth ToDo List.
+
+Currently working through the "FullStack Web Developer" curriculum provided by freeCodeCamp. I've completed the HTML portion of the course. I'm now within the CSS portion. The project was the "Build a Stylized To-Do List", and while it had parameters I was to follow, I found that it also left much open in the sense that I was free to have fun with this project. 
+
+So I decided to make a satire To Do List. From the perspective of Aliens preparing to Invade Earth. I'm a novice in the field of programming, web development in particular. So while I utilized outside resources (other than solely what I've learned thus far on freeCodeCamp) to make this in the image I intended for it to be, I know it's nothing crazy. Anyway. Felt I should go ahead and share this to my Github, as I hope to one day be able to work doing programming or development, and I lack any formal education surpassing a G.E.D. Therefore, I hope to begin making my Github into a developer portfolio where at some point, maybe my work will speak for itself and help with possible work opportunities or frankly any opportunities! Enjoy!
